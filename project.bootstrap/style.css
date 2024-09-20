@@ -1,0 +1,15 @@
+
+#animation{
+
+  position: relative;
+  animation-name: example;
+  animation-duration: 1s;  
+  animation-delay: 0.1s;
+  
+}
+
+@keyframes example {
+  from {top: 0px;}
+  to {top: 30px; }
+}
+
